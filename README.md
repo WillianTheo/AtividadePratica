@@ -1,4 +1,4 @@
-![alt text](https://github.com/borinvini/MountainShooter/blob/main/asset/Player1.png?raw=true "ARCHERY TRYOUTS") ARCHERY TRYOUTS ![alt text](https://github.com/borinvini/MountainShooter/blob/main/asset/Player1.png?raw=true "Mountain Shooter")
+![Player1.png](asset/Player1.png) ARCHERY TRYOUTS ![Player2.png](asset/Player2.png)
 ===============
  
 
@@ -6,6 +6,7 @@
 
 ARCHERY TRYOUTS is a 2D arcade game developed with Pygame. The game has 2 levels and each level level end with a timeout event.
 Can be played coop (2 players).
+But be careful, the enemies have some power.
 Score is saved in database (SQLite3))
 
 
@@ -32,9 +33,9 @@ PLAYER_KEY_SHOOT = LEFTCTRL
 
 GAME MENU
 
-![img.png](img.png)
+![img_3.png](asset/img_3.png)
 
 GAME LEVEL 1
 
-![img_2.png](img_2.png)
+![img_1.png](asset/img_1.png)
 
